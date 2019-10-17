@@ -1,0 +1,2 @@
+# trylicense
+no
